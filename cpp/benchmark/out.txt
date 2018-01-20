@@ -1,0 +1,21 @@
+load cost: 1.468691s
+**********************
+Testing file: ../input/spell-testset1.txt
+most cost: 0.532s, most cost query: `magnifiscant`
+total: 270, right: 211, rate: 0.781481, ave time cost: 0.054s, tot time: 14.653s
+**********************
+**********************
+Testing file: ../input/spell-testset2.txt
+most cost: 0.609s, most cost query: `interogationg`
+total: 400, right: 302, rate: 0.755000, ave time cost: 0.057s, tot time: 22.771s
+**********************
+**********************
+Testing file: ../input/wikipedia.txt
+most cost: 1.333s, most cost query: `transcendentational`
+total: 2455, right: 1903, rate: 0.775153, ave time cost: 0.046s, tot time: 112.352s
+**********************
+**********************
+Testing file: ../input/aspell.txt
+most cost: 0.695s, most cost query: `unconisitional`
+total: 531, right: 287, rate: 0.540490, ave time cost: 0.131s, tot time: 69.464s
+**********************

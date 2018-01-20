@@ -1,0 +1,26 @@
+load cost: 1.438307s
+**********************
+Testing file: ../input/spell-testset1.txt
+most cost: 0.562s, most cost query: `stanerdizing`
+total: 270, right: 211, rate: 0.781481, ave time cost: 0.056s, tot time: 15.096s
+**********************
+**********************
+Testing file: ../input/spell-testset2.txt
+most cost: 0.632s, most cost query: `interogationg`
+total: 400, right: 302, rate: 0.755000, ave time cost: 0.059s, tot time: 23.731s
+**********************
+**********************
+Testing file: ../input/wikipedia.txt
+most cost: 1.284s, most cost query: `transcendentational`
+total: 2455, right: 1903, rate: 0.775153, ave time cost: 0.046s, tot time: 112.681s
+**********************
+**********************
+Testing file: ../input/aspell.txt
+most cost: 0.777s, most cost query: `unconisitional`
+total: 531, right: 287, rate: 0.540490, ave time cost: 0.130s, tot time: 68.982s
+**********************
+**********************
+Testing file: ../input/birkbeck.txt
+most cost: 1.095s, most cost query: `anthouslyarskeytic`
+total: 36133, right: 12648, rate: 0.350040, ave time cost: 0.145s, tot time: 5252.593s
+**********************

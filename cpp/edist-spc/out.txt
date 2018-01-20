@@ -1,0 +1,33 @@
+load cost: 1.488s
+**********************
+Testing file: ../input/spell-testset1.txt
+push node{total:1527808 ave:5658.548148 max:38821}
+max node queries: diagrammaticaally
+max pop queries: diagrammaticaally
+pop node{total:235140 ave:870.888889 max:9847}
+total: 270, correct: 212, unknow: 0, rate: 0.785185, ave time cost: 0.010s, total time: 2.683s
+**********************
+**********************
+Testing file: ../input/spell-testset2.txt
+push node{total:2523160 ave:6307.900000 max:31822}
+max node queries: traditionaly
+max pop queries: traditionaly
+pop node{total:393396 ave:983.490000 max:6720}
+total: 400, correct: 314, unknow: 0, rate: 0.785000, ave time cost: 0.011s, total time: 4.436s
+**********************
+**********************
+Testing file: ../input/wikipedia.txt
+push node{total:17746397 ave:7228.674949 max:129322}
+max node queries: unsubstanciated
+max pop queries: unsubstanciated
+pop node{total:3025316 ave:1232.307943 max:43253}
+total: 2455, correct: 1877, unknow: 26, rate: 0.764562, ave time cost: 0.013s, total time: 31.007s
+**********************
+**********************
+Testing file: ../input/aspell.txt
+push node{total:4479933 ave:8436.785311 max:93226}
+max node queries: encyclapidia
+max pop queries: encyclapidia
+pop node{total:830929 ave:1564.838041 max:29567}
+total: 531, correct: 310, unknow: 14, rate: 0.583804, ave time cost: 0.015s, total time: 7.915s
+**********************
